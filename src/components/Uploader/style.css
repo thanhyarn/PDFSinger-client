@@ -1,0 +1,33 @@
+form {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: 2px dashed #1475cf;
+  cursor: pointer;
+  border-radius: 5px;
+  flex-direction: column;
+}
+
+.upload-button {
+  display: flex;
+  margin: auto;
+  justify-content: center;
+  align-items: center;
+}
+
+.upload-button span {
+  color: cornflowerblue;
+  margin: auto;
+}
+
+.formStyle {
+  padding: 20px;
+  border: 1px solid black;
+  width: 50%;
+  text-align: center;
+  margin: auto;
+}
+
+.form-control {
+  border-color: black !important;
+}
